@@ -1,0 +1,10 @@
+pkgbase = xray-geoip-placeholder
+	pkgdesc = GeoIP List for Xray, placeholder without actual data
+	pkgver = 202402010040
+	pkgrel = 1
+	url = https://github.com/v2fly/geoip
+	arch = any
+	license = CCPL:by-sa
+	provides = xray-geoip=202402010040
+
+pkgname = xray-geoip-placeholder
