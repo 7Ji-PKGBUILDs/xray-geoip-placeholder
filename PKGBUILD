@@ -8,3 +8,5 @@ arch=('any')
 url="https://github.com/v2fly/geoip"
 license=('CCPL:by-sa')
 provides=("xray-geoip=${pkgver}")
+source=('geoip.dat')
+cksums=('SKIP')

@@ -6,5 +6,7 @@ pkgbase = xray-geoip-placeholder
 	arch = any
 	license = CCPL:by-sa
 	provides = xray-geoip=202402010040
+	source = geoip.dat
+	cksums = SKIP
 
 pkgname = xray-geoip-placeholder
